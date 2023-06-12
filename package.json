@@ -1,0 +1,14 @@
+{
+  "name": "ideasapp",
+  "version": "1.0.0",
+  "description": "This is Demo project to learn Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dharmveer Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
